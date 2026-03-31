@@ -2,6 +2,7 @@ Hi there, I'm Anya Rajesh 👋
 I'm a Computer Science student passionate about building AI systems that solve real problems. My work sits at the intersection of cybersecurity and healthcare AI — two domains where intelligent systems can have a direct, meaningful impact on people's lives. I build end-to-end ML pipelines, deploy production-ready applications, and obsess over clean system design.
 
 🚀 Featured Projects
+
 ⚡ Vigil AI
 
 An AI-native cybersecurity monitoring platform for real-time threat detection and automated incident response.
@@ -34,5 +35,8 @@ I'm currently deepening my work in large language model fine-tuning, agentic AI 
 🔗 Let's Connect
 
 Portfolio: https://portfolio-anyarajesh1s-projects.vercel.app/
+
 GitHub: @anyarajesh1
+
 LinkedIn: http://linkedin.com/in/anya-raj
+
