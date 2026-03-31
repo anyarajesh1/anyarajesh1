@@ -1,4 +1,4 @@
-# Hey, I'm Anya Rajesh
+# Hey, I'm Anya Rajesh 👋
 
 I'm a Computer Science student passionate about building AI systems that solve real problems. My work sits at the intersection of cybersecurity and healthcare AI — two domains where intelligent systems can have a direct, meaningful impact on people's lives. I build end-to-end ML pipelines, deploy production-ready applications, and obsess over clean system design.
 
