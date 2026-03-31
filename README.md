@@ -1,4 +1,5 @@
-Hi there, I'm Anya Rajesh 👋
+# Hey, I'm Anya Rajesh
+
 I'm a Computer Science student passionate about building AI systems that solve real problems. My work sits at the intersection of cybersecurity and healthcare AI — two domains where intelligent systems can have a direct, meaningful impact on people's lives. I build end-to-end ML pipelines, deploy production-ready applications, and obsess over clean system design.
 
 🚀 Featured Projects
@@ -27,9 +28,11 @@ Report Generation: Automatically produces structured clinical summaries, SOAP no
 Privacy-First: HIPAA-aligned architecture with local inference options, data anonymization pipelines, and full audit logging.
 
 🤖 Technical Stack
+
 Python, TypeScript, JavaScript, SQL, BashMachine Learning & AIPyTorch, TensorFlow, scikit-learn, Keras, Hugging Face, LangChainNLP & LLMsBERT, GPT-4, RAG pipelines, OpenAI APIBackendFastAPI, Node.js, REST APIs, PostgreSQL, RedisFrontendNext.js 14, React, Tailwind CSS, TypeScriptDevOps & CloudDocker, AWS, GCP, Vercel, GitHub Actions, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
 
 📚 Current Focus
+
 I'm currently deepening my work in large language model fine-tuning, agentic AI systems, and building more robust evaluation frameworks for medical AI models. Always interested in projects that push AI into high-stakes, high-impact domains.
 
 🔗 Let's Connect
