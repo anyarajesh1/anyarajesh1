@@ -39,7 +39,7 @@ I'm currently deepening my work in large language model fine-tuning, agentic AI 
 
 ## 🔗 Let's Connect
 
-Portfolio: https://portfolio-anyarajesh1s-projects.vercel.app/
+Portfolio: https://anya-rajesh.vercel.app/
 
 GitHub: @anyarajesh1
 
