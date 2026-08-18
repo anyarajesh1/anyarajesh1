@@ -1,8 +1,21 @@
 # Hey, I'm Anya Rajesh 👋
 
-I'm a Computer Science student passionate about building AI systems that solve real problems. My work sits at the intersection of cybersecurity and healthcare AI — two domains where intelligent systems can have a direct, meaningful impact on people's lives. I build end-to-end ML pipelines, deploy production-ready applications, and obsess over clean system design.
+I'm a Computer Science student focused on building AI systems that solve practical, real-world problems. My work spans community safety, healthcare, and trustworthy information systems—domains where reliable technology can have a meaningful impact on people's lives. I build end-to-end machine learning and LLM pipelines, develop production-ready full-stack applications, and care deeply about transparent reasoning, responsible deployment, and clean system design.
 
 ## 🚀 Featured Projects
+
+### 🔎 Axiom
+
+Evidence-led claim analysis platform for transparent, source-backed verification
+
+Built and deployed a full-stack system that transforms free-form text into checkable claims, retrieves relevant sources, evaluates conflicting information, and produces explained verdicts.
+
+* Claim Decomposition: Used structured LLM outputs to separate paragraphs into individual, verifiable claims while preserving their original context.
+* Hybrid Retrieval: Combined a curated Qdrant corpus with Tavily web search fallback to find relevant evidence from traceable sources.
+* Verification Pipeline: Orchestrated retrieval, reranking, entailment analysis, contradiction detection, and final judgment through a LangGraph workflow.
+* Transparent Results: Returned supported, contradicted, or insufficient-evidence verdicts with confidence scores, explanations, and direct source links.
+* Production Architecture: Built with FastAPI, Next.js, Groq, Qdrant, and Neon Postgres; deployed across Vercel and Render with automated GitHub Actions testing.
+
 
 ### ⚡ Vigil AI
 
